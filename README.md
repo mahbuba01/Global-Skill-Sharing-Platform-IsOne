@@ -1,8 +1,8 @@
-# Global Skill-Sharing App: 'IsOne' – A Universal Platform for Learning and Exchange
+## Global Skill-Sharing App: 'IsOne' – A Universal Platform for Learning and Exchange
 
 
 
-# Executive Summary
+### Executive Summary
 
 IsOne is a global skill-sharing platform designed to connect individuals worldwide who wish to share and learn any type of skill—whether it's coding, cooking, dancing, public speaking, photography or beyond.
 The platform encourages peer-to-peer learning by allowing users to showcase their expertise, tag their profiles with specific skills and be discoverable by others based on those tags.
@@ -10,7 +10,7 @@ Through detailed user profiles, rating systems and flexible booking options for 
 
 
 
-# Idea Description
+### Idea Description
 
 In an increasingly interconnected world, skill-sharing plays a critical role in both personal and professional development. IsOne seeks to build an inclusive and accessible digital ecosystem where users from diverse backgrounds can seamlessly share, learn and exchange a wide range of skills.
 
@@ -18,7 +18,7 @@ The platform leverages a tag-based search system, enabling users to easily find 
 
 
 
-# Core Features
+### Core Features
 
 IsOne is packed with innovative functionalities designed to make skill-sharing seamless and impactful. Key features include:
 
@@ -31,7 +31,7 @@ IsOne is packed with innovative functionalities designed to make skill-sharing s
 
 
 
-# Business Model
+### Business Model
 
 The platform will follow a Freemium Model to accommodate all types of users:
 
@@ -42,6 +42,6 @@ Additionally, IsOne will feature a "Job" or "Work" section, where users can offe
 
 
 
-# Conclusion
+### Conclusion
 
 IsOne bridges the gap between access to knowledge and the willingness to share it. By turning every individual into both a teacher and a learner, the app promotes community-driven education, skill-based income generation and global collaboration. This innovative platform holds the potential to redefine the way people connect, grow and contribute in the digital age.
